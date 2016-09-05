@@ -1,0 +1,15 @@
+{
+    "source_url": "https://news.google.com/news?q=%s&hl=en-US",
+    "tfidf_flag": "1",
+    "elk_host": "localhost",
+    "elk_port": "9200",
+    "elk_index": "news",
+    "elk_type": "article",
+    "elk_type2": "articleword",
+
+    "mongo_host": "localhost",
+    "mongo_port": "27017",
+    "keyWordNum": "30",
+    "searchword_config": "searchword.txt"
+}
+
