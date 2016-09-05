@@ -1,2 +1,2 @@
 # googleNewsCrawler
-news crawler with keywords extration
+News crawler with keywords extration
